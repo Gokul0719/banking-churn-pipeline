@@ -67,6 +67,12 @@ Simulated streaming transactions were generated and processed using PySpark Stru
 
 ---
 
+## Architecture
+
+![Architecture](architecture/banking-churn-architecture.png)
+
+---
+
 ## Dashboard Screenshots
 
 ### Executive Overview
