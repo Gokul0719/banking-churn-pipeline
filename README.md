@@ -71,15 +71,15 @@ Simulated streaming transactions were generated and processed using PySpark Stru
 
 ### Executive Overview
 
-![Page1](screenshots/page1_overview.png)
+![Page1](screenshots/dashboard_overview.png)
 
 ### Customer Risk Analytics
 
-![Page2](screenshots/page2_risk_analytics.png)
+![Page2](screenshots/dashboard_customer_risk_analytics.png)
 
 ### Transaction Analytics
 
-![Page3](screenshots/page3_transaction_analytics.png)
+![Page3](screenshots/dashboard_transaction_analytics.png)
 
 ---
 
